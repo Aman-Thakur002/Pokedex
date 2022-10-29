@@ -3,7 +3,8 @@
  const colors ={
     fire: "#fddfdf",
     grass:"#defde0",
-    electirc:"#def3fd",
+    water:"#b4e7ff",
+    electric:"#def3fd",
     ground:"#f4e7da",
     rock:"#d5d5d4",
     fairy:"#fceaff",
@@ -11,7 +12,7 @@
     bug:"#f8d5a3",
     dragon:"#97b3e6",
     psychic:"#eaeda1",
-    flying:"#f5f5f5",
+    flying:"#f9f9e5",
     fighting:"#e6e0d4",
     normal:"#f5f5f5"
  }
